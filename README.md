@@ -8,7 +8,7 @@
 
 <img width="772" alt="图片" src="https://github.com/SleepingBag945/dahua_rce_exp/assets/100852628/3f82144d-b25f-452b-9e88-7556fc8b6462">
 
-运行后上传自带免杀哥斯拉。默认密码pass。
+运行后会新建一个账户并上传自带免杀哥斯拉。默认密码pass。
 
 <img width="1265" alt="图片" src="https://github.com/SleepingBag945/dahua_rce_exp/assets/100852628/4014bd6e-3e68-417d-80ec-563ebe3626b4">
 
